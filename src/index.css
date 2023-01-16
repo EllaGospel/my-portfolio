@@ -88,7 +88,7 @@
     height: 30px;
     width: 83px;    
 }
-.skill,.skill1{
+.skill,.skill1,.skill-2{
     display: flex;
     align-items: center;
     justify-content: center;   

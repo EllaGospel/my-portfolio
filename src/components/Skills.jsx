@@ -13,7 +13,7 @@ function Skills() {
         <p className="skill-list1 box1">Git</p>
         <p className="skill-list1 box1">GitHub</p>
         </div>
-        <div>
+        <div  className="skill-2">
         <p className="skill-list1 box2">Responsive Design</p>
     </div>
     </>
