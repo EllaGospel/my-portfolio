@@ -20,10 +20,10 @@
     gap: 10px;
     width: 70%;
 }
-.image-div{
+.person-div{
     width: 80%;
 }
-.image{
+.person{
     width: 250px;
     height: 300px; 
     float: right;
@@ -59,7 +59,7 @@
     height: 100%;
     
 }
-.image-div{
+.person-div{
     margin-left: 30px;
 }
 
@@ -105,10 +105,7 @@
 .contact-link:hover{
     color: aliceblue;
 }
-.img1{
-    height: 150px;
-    width: 300px;
-}
+
 .project{
     text-align: center;
     color: orangered;
@@ -135,7 +132,7 @@
  .project-div{
     display: flex;
  }
- .images{
+ .focus{
     flex: 33.3%;
     padding: 10px;
  }

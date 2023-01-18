@@ -7,8 +7,8 @@ function Home() {
       
       
       <div className="aside">
-      <div className="image-div" >
-      <img className="image" src="https://res.cloudinary.com/oziomadibia/image/upload/v1673692911/IMG-202220715-WA0001_yckice.jpg" alt="profile picture" />
+      <div className="person-div" >
+      <img className="person" src="https://res.cloudinary.com/oziomadibia/image/upload/v1673692911/IMG-202220715-WA0001_yckice.jpg" alt="profile picture" />
       </div>
       <div className="intro">
       <h1 className="head">HI, I'M GOSPEL EMMANUELA CHARLES</h1>
