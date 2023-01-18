@@ -3,6 +3,8 @@ import Home from "./components/Home";
 import About from "./components/About";
 import Contact from "./components/Contact";
 import Skills from "./components/Skills";
+import Project from "./components/Project";
+import Footer from "./components/Footer";
 function App() {
   return (
     <>
@@ -11,6 +13,8 @@ function App() {
     <About/>
     <Contact/>
     <Skills/>
+    <Project/>
+    <Footer/>
     </>
     
   );

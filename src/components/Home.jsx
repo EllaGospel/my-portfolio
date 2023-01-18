@@ -3,7 +3,7 @@
 function Home() {
   return ( 
     <>
-    <section id="#home" className="container" >
+   <section id="#home" className="container" >
       
       
       <div className="aside">
@@ -12,7 +12,9 @@ function Home() {
       </div>
       <div className="intro">
       <h1 className="head">HI, I'M GOSPEL EMMANUELA CHARLES</h1>
+      
       <p className="personality">A frontend Developer focused on building  frontend user interface that leads to  success overall product</p>
+      
       <a href="#project" className="project-link">Projects</a>
       </div>
       </div>
