@@ -11,22 +11,19 @@ function App() {
   return (
   
     <Router>
-      <div >
+      
     <Nav/>
     <Routes>
+      
        <Route path='/' element={<Home/>}/>
        <Route path='/about' element={<About/>}/>
        <Route path='/contact' element={<Contact/>}/>
-       <Route path='/skill' element={<Skills/>}/>
+       <Route path='/skills' element={<Skills/>}/>
        <Route path='/project' element={<Project/>}/>
-
-       
     </Routes>
     <Footer/>
     
-    
-    </div>
-    </Router>
+     </Router>
     
     
   );
