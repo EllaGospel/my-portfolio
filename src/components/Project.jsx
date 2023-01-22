@@ -7,7 +7,7 @@ function Project() {
     <div className="project-div">
     <div className="">
     <p className="proj-paragraph">This is a signup page
-       <img className="focus" src="https://res.cloudinary.com/oziomadibia/image/upload/v1673903290/WhatsApp_Image_2023-01-16_at_10.06.38_PM_aqh8xc.jpg" alt="signup image" /></p>
+       <img className="focus" src="https://res.cloudinary.com/oziomadibia/image/upload/v1673903290/WhatsApp_Image_2023-01-16_at_10.06.38_PM_aqh8xc.jpg" alt="signup-page" /></p>
        <a href="https://ellagospel.github.io/new_signup_page/" className="sign-uplink">Link </a>
     </div>
     <div>
