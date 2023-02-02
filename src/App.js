@@ -11,18 +11,21 @@ function App() {
   return (
   
     <Router>
+    <div className='flex justify-between w-full h-screen flex-col'>  
+      <Nav/>
+      <main>
       
-    <Nav/>
-    <Routes>
-      
-       <Route path='/' element={<Home/>}/>
-       <Route path='/about' element={<About/>}/>
-       <Route path='/contact' element={<Contact/>}/>
-       <Route path='/skills' element={<Skills/>}/>
-       <Route path='/project' element={<Project/>}/>
-    </Routes>
-    <Footer/>
-    
+        <Routes>
+        
+        <Route path='/my-portfolio' element={<Home/>}/> 
+          <Route path='/about' element={<About/>}/>
+          <Route path='/contact' element={<Contact/>}/>
+          <Route path='/skills' element={<Skills/>}/>
+          <Route path='/project' element={<Project/>}/>
+        </Routes>
+     </main>
+     <Footer/>
+    </div>
      </Router>
     
     

@@ -1,11 +1,12 @@
 import {Link} from 'react-router-dom'
+
 function Nav() {
   return (
     <nav className="navmain">
         
         <ul className="navbar">
-            <p className="name ">GC</p>
-           <Link to='/' className="navlink">
+            
+           <Link to='/my-portfolio' className="navlink">
                 Home
                 </Link>
             
