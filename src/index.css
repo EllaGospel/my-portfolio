@@ -38,7 +38,8 @@
     cursor: pointer;
 }
 .project-on-navlink{
-    background-color: orangered;
+    background-color:blueviolet;
+    color: whitesmoke;
     padding-left: 6px;
     padding-right: 6px;
     padding-bottom: 2px;
