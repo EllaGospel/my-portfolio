@@ -22,22 +22,22 @@
     gap: 10px;
     width: 70%;
 }
-.person{
+ .person{
     width: 250px;
     height:300 ;
     margin-left: auto;
     margin-right: auto;
-}
+} 
 .aside{
     
     background-image: repeating-linear-gradient(rgb(223, 189, 144),rgb(250, 199, 138) 10%,rgb(212, 174, 116) 20%);
-}
+} 
 
 .navlink:hover{
     color: orangered;
     cursor: pointer;
 }
-.project-on-navlink{
+ .project-on-navlink{
     background-color:blueviolet;
     color: whitesmoke;
     padding-left: 6px;
@@ -64,7 +64,7 @@
     color: greenyellow;
     border-radius: 8px;
     background-color:  orangered;;
-} 
+}  
 
 .abt-me{
     text-align: center;
@@ -165,7 +165,7 @@
  .sign-uplink:hover{
     border-radius: 15px;
     color: whitesmoke;
- }
+ } 
  
 
     
