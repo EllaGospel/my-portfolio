@@ -6,12 +6,12 @@ function Nav() {
       <ul>
       <div className='flex justify-around '>  
         <div>
-        <div className="flex cursor-pointer capitalize font-normal hover:scale-105 duration-200"> 
-        <p className="bg-orange-400 mt-2 w-10 h-10 py-2 px-2 rounded-full text-white md:ml-[385px] lg:ml-[385px] xl:ml-[385px] 2xl:ml-[385px]">GC</p>  
-        <span className=" mt-4 ml-2 font-bold">Gospel Emmanuela</span></div>
+        <div className=" hidden lg:flex cursor-pointer capitalize font-normal hover:scale-105 duration-200"> 
+        <p className="bg-orange-400 mt-2 w-10 h-10 py-2 px-2 rounded-full text-white md:ml-[385px] lg:ml-[385px] xl:ml-[385px] 2xl:ml-[385px] block sm:inline-block ">GC</p>  
+        <span className=" mt-4 ml-2 font-bold block sm:inline-block">Gospel Emmanuela Dibia</span></div>
         </div>
         
-        <div className='flex gap-5 mt-4 cursor-pointer'>
+        <div className='flex flex-wrap lg:flex-nowrap gap-3 lg:gap-5 mt-4 cursor-pointer'>
       <a href="#home">
         <li>
         Home

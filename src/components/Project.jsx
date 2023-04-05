@@ -18,7 +18,7 @@ function Project() {
       <div className='text-justfy text-lg lg:text-xl lg:mt-36'>
        This is a review app which customers can use to give feedback on the quaility of services and busness transactions carried out or experienced.
        
-       <p>It is built with React,tailwind and daisy ui</p>
+       <p>It is built with React,tailwind and daisyUi</p>
       </div>
     </div>
      <div className='flex gap-5 mb-10 '>
@@ -34,14 +34,14 @@ function Project() {
      </div>
      <div className='flex py-10'>
        <div className='lg:ml-7 ml-2'>
-      <p className=' text-xl'>Sign up page</p>
+      <p className=' text-xl mt-5'>Sign up page</p>
       <img src={signup} alt="sign-up" className='w-[60%]' />
       <a href="https://ellagospel.github.io/new_signup_page/" className='flex justify-center text-xl text-gray-800 bg-gray-400 rounded-md hover:bg-orange-600 cursor-pointer hover:text-white hover:w-[20%] hover:m-auto hover:ml-14 w-[60%]'>Link</a>
       </div>
       <div className='text-justfy lg:mt-28 mr-20 text-xl text-gray-800 '>
         This is a signup page built with HTML, CSS and JavaScript.
+        <p>This Portfolio your viewing was built using react, tailwind and daisyUi.</p>
       </div>
-      
      </div>
     </div>
     </section>
