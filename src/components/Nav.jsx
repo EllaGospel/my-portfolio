@@ -6,8 +6,8 @@ function Nav() {
       <ul>
       <div className='flex justify-around '>  
         <div>
-        <div className=" hidden lg:flex cursor-pointer capitalize font-normal hover:scale-105 duration-200"> 
-        <p className="bg-orange-400 mt-2 w-10 h-10 py-2 px-2 rounded-full text-white md:ml-[385px] lg:ml-[385px] xl:ml-[385px] 2xl:ml-[385px] block sm:inline-block ">GC</p>  
+        <div className=" hidden lg:flex md:flex xl:flex 2xl:flex  cursor-pointer capitalize font-normal hover:scale-105 duration-200"> 
+        <p className="bg-orange-400 mt-2 w-10 h-10 py-2 px-2 rounded-full text-white  block sm:inline-block ">GC</p>  
         <span className=" mt-4 ml-2 font-bold block sm:inline-block">Gospel Emmanuela Dibia</span></div>
         </div>
         

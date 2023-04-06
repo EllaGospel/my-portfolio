@@ -17,8 +17,8 @@ function Home() {
                 <div className='flex flex-col mt-4 h-full ml-2 mb-[10px} xl:justify-center'>
                     <h2 className='text-5xl sm:text-5xl font-bold ml-10 lg:ml-3'>I'm a frontend<br/> Developer</h2>
                     <p className='text-gray py-4 max-w-md ml-10 lg:ml-3'>A frontend Developer focused on building  frontend user interface that leads to the success of overall product</p>
-                    <div >
-                       <a href='#project' className=' w-fix w-[40%] px-6 my-2 flex items-center rounded-md bg-gradient-to-r from-purple to-pincolor-800 cursor-pointer active:scale-[.98] active:duration-50 transition-all hover:scale-[1.01]  ease-in-out  transform py-4 '>Projects  <span className='ml-2 font-medium'><FaArrowRight /></span></a>
+                    <div>
+                       <a href='#project' className=' w-fix w-[40%] p-6 my-2 flex items-center rounded-md bg-gradient-to-r from-purple to-pincolor-800 cursor-pointer active:scale-[.98] active:duration-50 transition-all hover:scale-[1.01]  ease-in-out  transform py-4 '>Projects  <span className='ml-2 font-medium'><FaArrowRight /></span></a>
                     
                     </div>
                 </div>
