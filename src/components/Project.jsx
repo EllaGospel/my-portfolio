@@ -12,9 +12,9 @@ function Project() {
          </div>
          <div  className='flex gap-5 mb-5'>
          <div>
-    <p className='text-center text-xl'>Beddings</p>
+    <p className='text-center text-xl'>Beddings sales</p>
     <img src={sheet} alt="Linen" className='ml-4'/>
-    <a href="https://ellagospel.github.io/review-app/" className='flex justify-center text-xl text-gray-800 bg-orange-300 rounded-md hover:bg-orange-600 cursor-pointer hover:text-white hover:w-[20%] hover:m-auto ml-10'>Link</a>
+    <a href="https://ellagospel.github.io/Brooklinen.com/" className='flex justify-center text-xl text-gray-800 bg-orange-300 rounded-md hover:bg-orange-600 cursor-pointer hover:text-white hover:w-[20%] hover:m-auto ml-10'>Link</a>
     </div>
       <div className='text-justfy text-lg lg:text-2xl lg:mt-28 w-[90%]'>
        This is a site which customers can purchase quaility beddings for use in the hotel, at home for gifts and other special use.
