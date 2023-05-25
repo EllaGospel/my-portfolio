@@ -19,7 +19,7 @@ function Project() {
       <div className='text-justfy text-lg lg:text-2xl lg:mt-28 w-[90%]'>
        This is a site which customers can purchase quaility beddings for use in the hotel, at home for gifts and other special use.
        
-       <p>It is built with HTML, CSS and JavaScript</p>
+       <p>It was built with HTML, CSS and JavaScript</p>
       </div>
     </div>
           
@@ -32,7 +32,7 @@ function Project() {
       <div className='text-justfy text-lg lg:text-2xl lg:mt-28'>
        This is a review app which customers can use to give feedback on the quaility of services and busness transactions carried out or experienced.
        
-       <p>It is built with React,tailwind and daisyUi</p>
+       <p>It was built with React,tailwind and daisyUi</p>
       </div>
     </div>
      <div className='flex gap-5 mb-10 '>
@@ -44,7 +44,7 @@ function Project() {
      </div>
         <div className='text-justfy text-lg lg:text-2xl xl:text-2xl 2xl:text-2xl md:text-2xl lg:mt-8 xl:mt-8 2xl:mt-8 text-gray-800 ml-16 md:ml-16'>
           This is a Todo app that helps to outline activites to be carried out in order of preference. it helps to articulate thought, keep track and recollect upcoming event.
-          <p>It is built with HTML,CSS and JavaScript.</p>
+          <p>It was built with HTML,CSS and JavaScript.</p>
         </div>
           
      <div className='lg:flex md:flex xl:flex 2xl:flex py-10'>
