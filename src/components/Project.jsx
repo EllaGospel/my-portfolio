@@ -2,6 +2,7 @@ import review from './images/reviewapp.jpeg'
 import todo from './images/todoapp.jpeg'
 import signup from './images/signup.jpeg'
 import sheet from './images/bedding.jpeg'
+import quizapp from './images/quizaap.jpeg'
 
 function Project() {
   return (
@@ -10,6 +11,20 @@ function Project() {
          <div className='flex justify-center text-2xl'>
          <p>PROJECTS</p>
          </div>
+         <div  className='flex gap-5 mb-5'>
+         <div>
+    <p className='text-center text-xl'>Quiz App</p>
+    <img src={quizapp} alt="Linen" className='ml-4'/>
+    <a href="https://ellagospel.github.io/quiz-app/" className='flex justify-center text-xl text-gray-800 bg-orange-300 rounded-md hover:bg-orange-600 cursor-pointer hover:text-white hover:w-[20%] hover:m-auto ml-10'>Link</a>
+    </div>
+      <div className='text-justfy text-lg lg:text-2xl lg:mt-28 w-[90%]'>
+       This is a quiz app.
+       
+       <p>It was built with HTML, CSS and JavaScript</p>
+      </div>
+    </div>
+     
+
          <div  className='flex gap-5 mb-5'>
          <div>
     <p className='text-center text-xl'>Beddings sales</p>
